@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  dllmain.cpp
+E:\Injection\BackUp-Cpp\CppInjection\GameMethods.h(24,125): warning C4244: 'argument': conversion from 'uint64_t' to 'int32_t', possible loss of data
+E:\Injection\BackUp-Cpp\CppInjection\GameMethods.h(38,1): warning C4305: 'argument': truncation from 'int' to 'bool'
+E:\Injection\BackUp-Cpp\CppInjection\ThreadSync.h(141,2): warning C4091: 'static ': ignored on left of 'ThreadSyncer' when no variable is declared
+E:\Injection\BackUp-Cpp\CppInjection\ThreadSync.h(59,45): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+E:\Injection\BackUp-Cpp\CppInjection\ThreadSync.h(73,25): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+E:\Injection\BackUp-Cpp\CppInjection\ThreadSync.h(125,1): warning C4311: 'type cast': pointer truncation from 'WNDPROC' to 'LONG'
+E:\Injection\BackUp-Cpp\CppInjection\ThreadSync.h(125,1): warning C4302: 'type cast': truncation from 'WNDPROC' to 'LONG'
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(265,78): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(413,29): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(413,29): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(814,24): warning C4553: '==': result of expression not used; did you intend '='?
+E:\VS2022\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+E:\VS2022\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\VS2022\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(270,13): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\Injection\BackUp-Cpp\CppInjection\dllmain.cpp(270,21): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 291 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CppInjection.vcxproj -> E:\Injection\BackUp-Cpp\CppInjection\x64\Release\CppInjection.dll

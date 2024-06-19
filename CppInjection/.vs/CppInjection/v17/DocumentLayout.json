@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ReadProcMem.pb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReadProcMem.pb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A020388-EA3E-47D9-A2B3-8AB71016744B}|CppInjection.vcxproj|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A020388-EA3E-47D9-A2B3-8AB71016744B}|CppInjection.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\include\\google\\protobuf\\parse_context.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\google\\protobuf\\parse_context.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\Injector\\Injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\minwinbase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winnt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\OPCODES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPCODES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\InjectorDOS\\InjectorDOS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ThreadSync.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThreadSync.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\GameMethods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameMethods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadProcMem.pb.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ReadProcMem.pb.h",
+              "RelativeDocumentMoniker": "ReadProcMem.pb.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ReadProcMem.pb.h",
+              "RelativeToolTip": "ReadProcMem.pb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T13:20:15.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winnt.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winnt.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winnt.h",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAiwKwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2022-09-01T12:12:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "minwinbase.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\minwinbase.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\minwinbase.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\minwinbase.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\minwinbase.h",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAiwH8BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2022-09-01T12:12:24.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThreadSync.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ThreadSync.h",
+              "RelativeDocumentMoniker": "ThreadSync.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\ThreadSync.h",
+              "RelativeToolTip": "ThreadSync.h",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T07:16:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Offsets.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\Offsets.h",
+              "RelativeDocumentMoniker": "Offsets.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\Offsets.h",
+              "RelativeToolTip": "Offsets.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T07:16:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameMethods.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\GameMethods.h",
+              "RelativeDocumentMoniker": "GameMethods.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\GameMethods.h",
+              "RelativeToolTip": "GameMethods.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T07:16:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAI0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T07:16:37.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Opcodes.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\Opcodes.h",
+              "RelativeDocumentMoniker": "Opcodes.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\Opcodes.h",
+              "RelativeToolTip": "Opcodes.h",
+              "ViewState": "AQIAACUEAAAAAAAAAAAqwDwEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T07:16:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Injector.cpp",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\Injector\\Injector.cpp",
+              "RelativeDocumentMoniker": "..\\Injector\\Injector.cpp",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\Injector\\Injector.cpp",
+              "RelativeToolTip": "..\\Injector\\Injector.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T08:37:17.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "parse_context.h",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\include\\google\\protobuf\\parse_context.h",
+              "RelativeDocumentMoniker": "include\\google\\protobuf\\parse_context.h",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\CppInjection\\include\\google\\protobuf\\parse_context.h",
+              "RelativeToolTip": "include\\google\\protobuf\\parse_context.h",
+              "ViewState": "AQIAAOwEAAAAAAAAAAAcwO0EAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T12:32:01.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InjectorDOS.cpp",
+              "DocumentMoniker": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\InjectorDOS\\InjectorDOS.cpp",
+              "RelativeDocumentMoniker": "..\\InjectorDOS\\InjectorDOS.cpp",
+              "ToolTip": "C:\\Users\\MrsFade\\Desktop\\Injection\\BackUp-Cpp\\InjectorDOS\\InjectorDOS.cpp",
+              "RelativeToolTip": "..\\InjectorDOS\\InjectorDOS.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T07:16:37.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
